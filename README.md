@@ -12,3 +12,7 @@
 ## Data structure and algorithm
 
 - [Out of box data structures](https://github.com/datastructures-js)
+
+## UI
+- [sweetalert2](https://github.com/sweetalert2/sweetalert2): A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
+- [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other
