@@ -16,3 +16,4 @@
 ## UI
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2): A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other
+- [Fontsource](https://fontsource.org/fonts): Self-host Open Source fonts in neatly bundled NPM packages.
