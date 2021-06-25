@@ -2,7 +2,7 @@
 
 ## CSS
 
--[modern-normalize](https://github.com/sindresorhus/modern-normalize): based on [normalize.css](https://github.com/necolas/normalize.css)
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize): based on [normalize.css](https://github.com/necolas/normalize.css)
 
 ## React
 
