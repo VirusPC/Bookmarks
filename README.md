@@ -32,6 +32,7 @@
 
 - [arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables.
 - [coordtransform 坐标转换](https://github.com/wandergis/coordtransform): 一个提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换的工具模块。
+- [Monaco Editor](https://github.com/microsoft/monaco-editor):  **The Monaco Editor is the code editor which powers VS Code**.
 
 ## 工作
 
