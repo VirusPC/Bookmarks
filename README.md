@@ -14,6 +14,7 @@
 - [sweetalert2](https://github.com/sweetalert2/sweetalert2): A beautiful, responsive, customizable, accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [SVG-Morpheus](https://github.com/alexk111/SVG-Morpheus): JavaScript library enabling SVG icons to morph from one to the other
 - [Fontsource](https://fontsource.org/fonts): Self-host Open Source fonts in neatly bundled NPM packages.
+- [Rough.js](https://github.com/rough-stuff/rough):  Create graphics with a hand-drawn, sketchy, appearance
 
 ## 架构
 
@@ -26,10 +27,12 @@
 
 ## 可视化
 
--[roughViz.js](https://github.com/jwilber/roughViz): A reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, based on D3v5, roughjs, and handy.
+- [roughViz.js](https://github.com/jwilber/roughViz): A reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, based on D3v5, roughjs, and handy.
 
 ## Tools
 
+- [pegjs](https://github.com/pegjs/pegjs): Parser generator for JavaScript
+- [plop](https://github.com/plopjs/plop): Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity.
 - [arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables.
 - [coordtransform 坐标转换](https://github.com/wandergis/coordtransform): 一个提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换的工具模块。
 - [Monaco Editor](https://github.com/microsoft/monaco-editor):  **The Monaco Editor is the code editor which powers VS Code**.
