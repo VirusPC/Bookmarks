@@ -29,6 +29,10 @@
 
 - [roughViz.js](https://github.com/jwilber/roughViz): A reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, based on D3v5, roughjs, and handy.
 
+## 其他
+
+- [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
+
 ## Tools
 
 - [pegjs](https://github.com/pegjs/pegjs): Parser generator for JavaScript
