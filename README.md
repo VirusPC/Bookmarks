@@ -32,7 +32,7 @@
 ## 其他
 
 - [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php): A collection of databases, domain theories, and data generators that are used by the machine learning community for the empirical analysis of machine learning algorithms.
+- [Mitt](https://github.com/developit/mitt): Tiny 200 byte functional event emitter / pubsub.
 
 ## Tools
 
