@@ -32,7 +32,6 @@
 ## 其他
 
 - [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
-- [Mitt](https://github.com/developit/mitt): Tiny 200 byte functional event emitter / pubsub.
 
 ## Tools
 
@@ -41,6 +40,8 @@
 - [arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables.
 - [coordtransform 坐标转换](https://github.com/wandergis/coordtransform): 一个提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换的工具模块。
 - [Monaco Editor](https://github.com/microsoft/monaco-editor):  **The Monaco Editor is the code editor which powers VS Code**.
+- [Mitt](https://github.com/developit/mitt): Tiny 200 byte functional event emitter / pubsub.
+- [mustache.js](https://github.com/janl/mustache.js) Minimal templating with {{mustaches}} in JavaScript
 
 ## 工作
 
