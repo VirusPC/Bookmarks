@@ -42,6 +42,7 @@
 - [Monaco Editor](https://github.com/microsoft/monaco-editor):  **The Monaco Editor is the code editor which powers VS Code**.
 - [Mitt](https://github.com/developit/mitt): Tiny 200 byte functional event emitter / pubsub.
 - [mustache.js](https://github.com/janl/mustache.js) Minimal templating with {{mustaches}} in JavaScript
+- [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages):  A lightweight solution for deploying single page apps with GitHub Pages
 
 ## 工作
 
