@@ -21,7 +21,7 @@
 - [Serverless 架构应用开发指南](https://github.com/phodal/serverless)
 
 
-## Data structure and algorithm
+## 数据结构和算法
 
 - [Out of box data structures](https://github.com/datastructures-js)
 
@@ -29,11 +29,7 @@
 
 - [roughViz.js](https://github.com/jwilber/roughViz): A reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, based on D3v5, roughjs, and handy.
 
-## 其他
-
-- [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
-
-## Tools
+## 工具
 
 - [pegjs](https://github.com/pegjs/pegjs): Parser generator for JavaScript
 - [plop](https://github.com/plopjs/plop): Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity.
@@ -43,9 +39,15 @@
 - [Mitt](https://github.com/developit/mitt): Tiny 200 byte functional event emitter / pubsub.
 - [mustache.js](https://github.com/janl/mustache.js) Minimal templating with {{mustaches}} in JavaScript
 - [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages):  A lightweight solution for deploying single page apps with GitHub Pages
+- [free-api](https://github.com/fangzesheng/free-api): 收集免费的接口服务
 
-## 工作
+## 学习资料
 
+- [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
 - [522道腾讯大厂真题汇总](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes/issues)
+
+## Materials
+
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): 各种类别的数据集
 
 
