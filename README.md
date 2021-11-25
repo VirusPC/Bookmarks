@@ -25,6 +25,11 @@
 
 - [Out of box data structures](https://github.com/datastructures-js)
 
+## 其他学习资料
+
+- [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
+- [522道腾讯大厂真题汇总](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes/issues)
+
 ## 可视化
 
 - [roughViz.js](https://github.com/jwilber/roughViz): A reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, based on D3v5, roughjs, and handy.
@@ -40,11 +45,6 @@
 - [mustache.js](https://github.com/janl/mustache.js) Minimal templating with {{mustaches}} in JavaScript
 - [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages):  A lightweight solution for deploying single page apps with GitHub Pages
 - [free-api](https://github.com/fangzesheng/free-api): 收集免费的接口服务
-
-## 学习资料
-
-- [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
-- [522道腾讯大厂真题汇总](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes/issues)
 
 ## Materials
 
