@@ -29,6 +29,7 @@
 
 - [Dive into webpack](https://github.com/gwuhaolin/dive-into-webpack)
 - [522道腾讯大厂真题汇总](https://github.com/Chocolate1999/Front-end-learning-to-organize-notes/issues)
+- [progit2](https://github.com/progit/progit2)
 
 ## 可视化
 
