@@ -47,6 +47,7 @@
 - [Single Page Apps for GitHub Pages](https://github.com/rafgraph/spa-github-pages):  A lightweight solution for deploying single page apps with GitHub Pages
 - [free-api](https://github.com/fangzesheng/free-api): 收集免费的接口服务
 - [md-block](https://github.com/LeaVerou/md-block): A custom element for rendering stylable (light DOM) Markdown
+- [svgo](https://github.com/svg/svgo): Node.js tool for optimizing SVG files
 
 ## Materials
 
