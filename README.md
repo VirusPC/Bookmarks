@@ -1,5 +1,7 @@
 # Bookmarks
 
+**Stop updating, since manage these repositories with [lists](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) is more convenient**
+
 ## CSS
 
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize): based on [normalize.css](https://github.com/necolas/normalize.css)
@@ -52,5 +54,6 @@
 ## Materials
 
 - [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets): 各种类别的数据集
+- [Open Scientific Visualization Datasets](https://klacansky.com/open-scivis-datasets/): 开源科学可视化数据集
 
 
